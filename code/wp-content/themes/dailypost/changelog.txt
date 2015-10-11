@@ -1,0 +1,40 @@
+***  Changelog ***
+
+06.01.2014 - Version 1.0.6
+ * Added
+ 	* Compatibility with WordPress 4.1
+
+17.04.2012 - Version 1.0.5
+ * New style for Search
+ * Fixed
+ 	* Menu
+ 	* Screenshot image 
+ * Added
+ 	* Google Plus
+ 	* Pinterest
+
+13.02.2012 - version 1.0.4
+ * Fixed favicon dispaly option http://bit.ly/y8BvAm
+ * Fixed meta keywords display
+
+08.02.2012 - version 1.0.3
+ * Removed link for HTML5 button
+ 
+12.01.2012 - version 1.0.2
+ * Fixed
+ 	* Nav menu design
+ 	* Link URI
+ * Added
+ 	* Info about «Using Post Formats»
+ 	
+10.01.2012 - version 1.0.1
+ * Fixed
+ 	* Menu design
+ 	* Compatibility with WordPress 3.3+
+ 
+ * Added 
+ 	* License.txt
+	* New Icon Set
+
+1.11.2011 - version 1.0.0
+ * First release!
